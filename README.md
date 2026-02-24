@@ -4,7 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-latest-green)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue)](https://docs.docker.com/compose/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)](https://huggingface.co/)
-![GitHub stars](https://img.shields.io/github/stars/Viraj281105/-fin-intelligence-platform?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Viraj281105/fin-intelligence-platform?style=social)
 
 > **Enterprise-grade controlled LLM platform for converting complex financial natural language queries into validated SQL — with governance, security, and explainable outputs.**
 
@@ -45,7 +45,7 @@ The platform is organized into modular layers:
 ## 📁 Repository Structure
 
 ```
--fin-intel/
+fin-intel/
 │
 ├── .gitignore
 ├── .gitattributes
@@ -114,8 +114,8 @@ The platform is organized into modular layers:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Viraj281105/-fin-intelligence-platform.git
-cd -fin-intelligence-platform
+git clone https://github.com/Viraj281105/fin-intelligence-platform.git
+cd fin-intelligence-platform
 ```
 
 ### 2. Configure Environment Variables
