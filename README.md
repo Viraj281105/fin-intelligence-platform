@@ -229,7 +229,7 @@ See [`docs/security/`](docs/security/) for the full threat model and security po
 
 ## 👤 Author
 
-**Viraj Chaudhari**
+**Viraj Jadhao**
 📂 [github.com/Viraj281105](https://github.com/Viraj281105)
 
 ---
