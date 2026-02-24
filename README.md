@@ -1,10 +1,10 @@
-# 🏦 SAS Financial Intelligence Platform
+# 🏦  Financial Intelligence Platform
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-latest-green)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue)](https://docs.docker.com/compose/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)](https://huggingface.co/)
-![GitHub stars](https://img.shields.io/github/stars/Viraj281105/sas-fin-intelligence-platform?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Viraj281105/-fin-intelligence-platform?style=social)
 
 > **Enterprise-grade controlled LLM platform for converting complex financial natural language queries into validated SQL — with governance, security, and explainable outputs.**
 
@@ -12,7 +12,7 @@
 
 ## 🧭 Overview
 
-The **SAS Financial Intelligence Platform** is a production-ready, security-first AI system designed for the financial domain. It enables analysts, risk teams, and business users to query complex financial databases using plain English — while enforcing enterprise-grade guardrails at every step.
+The ** Financial Intelligence Platform** is a production-ready, security-first AI system designed for the financial domain. It enables analysts, risk teams, and business users to query complex financial databases using plain English — while enforcing enterprise-grade guardrails at every step.
 
 Core capabilities:
 
@@ -45,7 +45,7 @@ The platform is organized into modular layers:
 ## 📁 Repository Structure
 
 ```
-sas-fin-intel/
+-fin-intel/
 │
 ├── .gitignore
 ├── .gitattributes
@@ -114,8 +114,8 @@ sas-fin-intel/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Viraj281105/sas-fin-intelligence-platform.git
-cd sas-fin-intelligence-platform
+git clone https://github.com/Viraj281105/-fin-intelligence-platform.git
+cd -fin-intelligence-platform
 ```
 
 ### 2. Configure Environment Variables
