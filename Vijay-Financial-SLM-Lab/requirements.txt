@@ -1,0 +1,25 @@
+# Core Machine Learning & SLM Training
+torch>=2.2.0
+transformers>=4.45.0
+accelerate>=0.34.0
+peft>=0.13.0
+trl>=0.11.0
+bitsandbytes>=0.43.0
+datasets>=3.0.0
+
+# API & Web Serving
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.8.0
+pydantic-settings>=2.4.0
+
+# Financial SQL & Database
+sqlglot>=25.0.0
+duckdb>=1.0.0
+
+# CLI & Developer Tools
+rich>=13.8.0
+typer>=0.12.0
+pytest>=8.3.0
+pytest-asyncio>=0.24.0
+python-dotenv>=1.0.1
